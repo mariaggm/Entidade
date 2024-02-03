@@ -1,0 +1,12 @@
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\bin\Debug\net8.0\Entidade.Domain.deps.json
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\bin\Debug\net8.0\Entidade.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\bin\Debug\net8.0\Entidade.Domain.pdb
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\Entidade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\Entidade.Domain.AssemblyInfoInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\Entidade.Domain.AssemblyInfo.cs
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\Entidade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\Entidade.Domain.sourcelink.json
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\Entidade.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\refint\Entidade.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\Entidade.Domain.pdb
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Domain\obj\Debug\net8.0\ref\Entidade.Domain.dll

@@ -1,0 +1,16 @@
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\bin\Debug\net8.0\Entidade.Repository.deps.json
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\bin\Debug\net8.0\Entidade.Repository.dll
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\bin\Debug\net8.0\Entidade.Repository.pdb
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\bin\Debug\net8.0\Entidade.Domain.dll
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\bin\Debug\net8.0\Entidade.Domain.pdb
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.csproj.AssemblyReference.cache
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.AssemblyInfoInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.AssemblyInfo.cs
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.csproj.CoreCompileInputs.cache
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.sourcelink.json
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.csproj.CopyComplete
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.dll
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\refint\Entidade.Repository.dll
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\Entidade.Repository.pdb
+C:\Users\maria.ggmaiero\source\repos\Entidade\Entidade.Repository\obj\Debug\net8.0\ref\Entidade.Repository.dll

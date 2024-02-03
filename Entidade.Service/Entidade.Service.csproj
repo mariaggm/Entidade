@@ -10,4 +10,9 @@
     <Folder Include="Service\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Entidade.Domain\Entidade.Domain.csproj" />
+    <ProjectReference Include="..\Entidade.Repository\Entidade.Repository.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade", "Entidade\Entidade.csproj", "{05F50483-6AF9-43E8-8ABF-E573454792FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidade.api", "Entidade\Entidade.api.csproj", "{05F50483-6AF9-43E8-8ABF-E573454792FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade.Service", "Entidade.Service\Entidade.Service.csproj", "{C6165162-9EBD-491C-9329-6CFE3549E51D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidade.Service", "Entidade.Service\Entidade.Service.csproj", "{C6165162-9EBD-491C-9329-6CFE3549E51D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade.Repository", "Entidade.Repository\Entidade.Repository.csproj", "{E1A1D076-40D6-4586-84C4-EB74355721C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidade.Repository", "Entidade.Repository\Entidade.Repository.csproj", "{E1A1D076-40D6-4586-84C4-EB74355721C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade.Domain", "Entidade.Domain\Entidade.Domain.csproj", "{FBE0C19E-D456-4F8A-9B38-DBB089537CEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidade.Domain", "Entidade.Domain\Entidade.Domain.csproj", "{FBE0C19E-D456-4F8A-9B38-DBB089537CEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
